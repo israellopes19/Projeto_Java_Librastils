@@ -32,5 +32,4 @@ public class Usuario {
 
     private List<Evento> eventos;
 
-
 }
